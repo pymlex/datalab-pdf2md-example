@@ -1,6 +1,6 @@
 # PDF2MD Datalab Marker Example
 
-<img width="676" height="400" alt="image" src="https://github.com/user-attachments/assets/71e182d4-373e-4cb4-b9b6-ae697a8c94b3" />
+<img width="507" height="300" alt="image" src="https://github.com/user-attachments/assets/71e182d4-373e-4cb4-b9b6-ae697a8c94b3" />
 
 A Colab-ready notebook demonstrating how to convert PDF books into high-quality Markdown suitable for LLM pipelines. The notebook uses `marker` (Datalab) to convert PDFs to Markdown with LaTeX rendering, image processing, and structured JSON metadata.
 
